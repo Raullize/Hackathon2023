@@ -38,7 +38,7 @@ O rank de prioridade das cidades é determinado com base no nível de necessidad
 O projeto **CalamityControl** foi desenvolvido durante o evento da 7ª Charcode, realizado em setembro de 2023. Com apenas dois dias para desenvolvimento, algumas funcionalidades ainda estão incompletas e não há previsão de continuação.
 
 ### Detalhes Técnicos
-- **Tecnologias Utilizadas**: HTML, CSS, Banco de Dados, PHP.
+- **Tecnologias Utilizadas**: HTML, CSS, JS, Banco de Dados, PHP.
 
 ### Contribuições
 Se desejar contribuir com este projeto, sinta-se à vontade para abrir issues ou enviar pull requests. Qualquer ajuda para aprimorar a plataforma é bem-vinda!
