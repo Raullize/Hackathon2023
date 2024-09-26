@@ -44,11 +44,11 @@ O projeto **CalamityControl** foi desenvolvido durante o evento da 7ª Charcode,
 Se desejar contribuir com este projeto, sinta-se à vontade para abrir issues ou enviar pull requests. Qualquer ajuda para aprimorar a plataforma é bem-vinda!
 
 ### Equipe 👥
-- 👤 Raul Lize Teixeira
-- 👤 Elano Tavares do Nascimento
-- 👤 Miguel Leonardo Strapazon Lewandowski
-- 👤 Kaio Leote Silveira
 - 👤 Bruna Rosa Bragança de Lima
+- 👤 Elano Tavares do Nascimento
+- 👤 Kaio Leote Silveira
+- 👤 Miguel Leonardo Strapazon Lewandowski
+- 👤 Raul Lize Teixeira
 
 ---
 
