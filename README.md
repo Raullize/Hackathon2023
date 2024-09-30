@@ -39,6 +39,7 @@ O projeto **CalamityControl** foi desenvolvido durante o evento da 7ª Charcode,
 
 ### Detalhes Técnicos
 - **Tecnologias Utilizadas**: HTML, CSS, JS, Banco de Dados, PHP.
+- **Padrão Arquitetural**: MVC (Model-View-Controller).
 
 ### Contribuições
 Se desejar contribuir com este projeto, sinta-se à vontade para abrir issues ou enviar pull requests. Qualquer ajuda para aprimorar a plataforma é bem-vinda!
