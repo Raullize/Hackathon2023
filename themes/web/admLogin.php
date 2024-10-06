@@ -16,7 +16,6 @@
         <div class="buttonsForm">
             <div class="btnColor"></div>
             <button id="btnSignin">Login</button>
-
         </div>
 
         <form id="signin">
@@ -48,7 +47,7 @@
             console.log(adm);
             if (adm) {
                 if (adm.type === "success") {
-                    window.location.href = "http://www.localhost/acme-manha/admin/";
+                    window.location.href = "http://www.localhost/Hackathon/admin/";
                 } else {
                     console.log(adm);
                     message.innerHTML = adm.message;

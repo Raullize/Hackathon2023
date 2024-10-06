@@ -47,7 +47,7 @@
             console.log(user);
             if (user) {
                 if (user.type === "success") {
-                    window.location.href = "http://www.localhost/acme-manha/app";
+                    window.location.href = "http://www.localhost/Hackathon/app";
                 } else {
                     console.log(user);
                     message.innerHTML = user.message;
