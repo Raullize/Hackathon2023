@@ -35,7 +35,7 @@ O projeto utiliza um banco de dados para gerenciar as informações de usuários
 O rank de prioridade das cidades é determinado com base no nível de necessidade dos suprimentos. Os municípios podem sinalizar suas necessidades diretamente na plataforma, possibilitando uma visão clara e atualizada das áreas mais críticas. As metas de arrecadação ajudam a identificar o quão próximo cada cidade está de atender suas necessidades em diferentes categorias.
 
 ### Status do Projeto
-O projeto **CalamityControl** foi desenvolvido durante o evento da 7ª Charcode, realizado em setembro de 2023. Com apenas dois dias para desenvolvimento, algumas funcionalidades ainda estão incompletas e não há previsão de continuação.
+O projeto **CalamityControl** foi desenvolvido durante o evento da 7ª Charcode, realizado em setembro de 2023. Com apenas 24 horas de desenvolvimento, algumas funcionalidades ainda estão incompletas e não há previsão de continuação.
 
 ### Detalhes Técnicos
 - **Tecnologias Utilizadas**: HTML, CSS, JS, Banco de Dados, PHP.
