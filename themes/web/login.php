@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="<?= url("assets/web/css/"); ?>login.css">
 </head>
 
-<body style="background-image: url(http://www.localhost/Hackathon/assets/web/images/rio2.avif)">
+<body style="background-image: url(http://www.localhost/Hackathon2023/assets/web/images/rio2.avif)">
     <div class="container">
         <div class="buttonsForm">
             <div class="btnColor"></div>
@@ -47,7 +47,7 @@
             console.log(user);
             if (user) {
                 if (user.type === "success") {
-                    window.location.href = "http://www.localhost/Hackathon/app";
+                    window.location.href = "http://www.localhost/Hackathon2023/app";
                 } else {
                     console.log(user);
                     message.innerHTML = user.message;

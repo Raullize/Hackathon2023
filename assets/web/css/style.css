@@ -19,7 +19,7 @@
 body {
   min-height: 100vh;
   background-size: cover;
-  background-image: url(http://www.localhost/Hackathon/assets/web/images/rio3.avif);
+  background-image: url(http://www.localhost/Hackathon2023/assets/web/images/rio3.avif);
 
   backdrop-filter: blur(13.6px);
   -webkit-backdrop-filter: blur(13.6px);

@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `bd-hackaton` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `bd-hackaton`;
+CREATE DATABASE  IF NOT EXISTS `bd-hackathon` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `bd-hackathon`;
 
 
 --

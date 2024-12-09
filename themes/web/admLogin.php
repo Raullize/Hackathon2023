@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="<?= url('assets/web/css/loginAdm.css') ?>">
 </head>
 
-<body style="background-image: url(http://www.localhost/Hackathon/assets/web/images/rio.avif);">
+<body style="background-image: url(http://www.localhost/Hackathon2023/assets/web/images/rio.avif);">
     <div class="container">
         <div class="buttonsForm">
             <div class="btnColor"></div>
@@ -47,7 +47,7 @@
             console.log(adm);
             if (adm) {
                 if (adm.type === "success") {
-                    window.location.href = "http://www.localhost/Hackathon/admin/";
+                    window.location.href = "http://www.localhost/Hackathon2023/admin/";
                 } else {
                     console.log(adm);
                     message.innerHTML = adm.message;

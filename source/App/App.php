@@ -13,7 +13,7 @@ class App
     public function __construct()
     {
         if (empty($_SESSION["user"]) || empty($_COOKIE["user"])) {
-            header("Location:http://www.localhost/Hackathon/login");
+            header("Location:http://www.localhost/Hackathon2023/login");
         }
         setcookie("user", "Logado", time() + 60 * 60, "/");
         $this->view = new Engine(CONF_VIEW_APP, 'php');
@@ -28,7 +28,7 @@ class App
     {
         session_destroy();
         setcookie("user", "", time() - 3600, "/");
-        header("Location:http://www.localhost/Hackathon/login");
+        header("Location:http://www.localhost/Hackathon2023/login");
     }
 
     public function profile()

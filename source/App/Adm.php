@@ -15,7 +15,7 @@ class Adm
     public function __construct()
     {
         if (empty($_SESSION["adm"]) || empty($_COOKIE["adm"])) {
-            header("Location:http://www.localhost/Hackathon/login");
+            header("Location:http://www.localhost/Hackathon2023/login");
         }
         setcookie("adm", "Logado", time() + 60 * 60, "/");
         $this->view = new Engine(CONF_VIEW_ADMIN, 'php');

@@ -10,7 +10,7 @@
     <script src="https://kit.fontawesome.com/cf6fa412bd.js" crossorigin="anonymous"></script>
 </head>
 
-<body style="background-image: url(http://www.localhost/Hackathon/assets/web/images/rio2.avif);" >
+<body style="background-image: url(http://www.localhost/Hackathon2023/assets/web/images/rio2.avif);" >
     <div class="container">
         <div class="buttonsForm">
             <div class="btnColor"></div>

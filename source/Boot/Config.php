@@ -7,13 +7,13 @@
 define("CONF_DB_HOST", "localhost");
 define("CONF_DB_USER", "root");
 define("CONF_DB_PASS", "");
-define("CONF_DB_NAME", "bd-hackaton"); // aqui deve ser alterado para o nome do banco de dados
+define("CONF_DB_NAME", "bd-hackathon"); // aqui deve ser alterado para o nome do banco de dados
 
 
 // PROJECT URLs
 
-define("CONF_URL_BASE", "http://www.localhost/Hackathon"); // depois da / deve vir o nome da pasta do trabalho
-define("CONF_URL_TEST", "http://www.localhost/Hackathon"); // depois da / deve vir o nome da pasta do trabalho
+define("CONF_URL_BASE", "http://www.localhost/Hackathon2023"); // depois da / deve vir o nome da pasta do trabalho
+define("CONF_URL_TEST", "http://www.localhost/Hackathon2023"); // depois da / deve vir o nome da pasta do trabalho
 
 // VIEW
 
@@ -24,7 +24,7 @@ define("CONF_VIEW_ADMIN", __DIR__ . "/../../themes/adm");
 
 // SITE
 
-define("CONF_SITE_NAME", "HACKATON - 2023");
+define("CONF_SITE_NAME", "HACKATHON - 2023");
 
 // FILES
 
