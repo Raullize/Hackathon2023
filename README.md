@@ -1,6 +1,4 @@
-# 🌊 CalamityControl
-
-## 7ª Charcode - Hackathon 🚀
+# 🌊 CalamityControl: Plataforma de gerenciamento de doações e suprimentos em cidades afetadas por inundações.
 
 ### Desafio
 Propor soluções para mitigar os impactos de inundações, focando na preservação da vida, na mitigação de prejuízos econômicos ou na recuperação de situações de calamidade.
