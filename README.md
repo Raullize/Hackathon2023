@@ -51,5 +51,5 @@ Se desejar contribuir com este projeto, sinta-se à vontade para abrir issues ou
 
 ---
 
-**CalamityControl** - 7ª Charcode - Setembro de 2023 🗓️
+**CalamityControl** - 7ª Charcode - Outubro de 2023 🗓️
 
