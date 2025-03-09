@@ -37,6 +37,7 @@ $route->get("/login", "Web:login");
 $route->post("/login", "Web:login");
 $route->get("/login-adm", "Web:admLogin");
 $route->post("/login-adm", "Web:admLogin");
+$route->get("/dashboard", "Web:dashboard"); // Nova rota para o dashboard
 
 /**
  * PROJECTS
