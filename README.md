@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
 </p>
 
-> **Nota histórica:** o código deste repositório foi congelado no estado do primeiro upload completo do projeto (commit `df2c76a`). O repositório foi criado no GitHub em 25/09/2024, após a realização da hackathon, portanto não existe um commit de 06–07/10/2023. Este README foi reescrito em 2026 para padronização e não é o README original da época.
-
 ## Descrição
 
 O **CalamityControl** é uma aplicação web desenvolvida para apoiar a gestão de doações e suprimentos em cidades atingidas por inundações. O protótipo reúne ranking de prioridade das cidades, necessidades por categoria, previsão do tempo e notícias, além de cadastro/login de usuários e uma área administrativa.
@@ -187,10 +185,16 @@ Este é um projeto histórico de hackathon. Contribuições não são esperadas,
       </a>
     </td>
     <td align="center">
-      <sub><b>Bruna Rosa Bragança de Lima</b></sub>
+      <a href="https://github.com/BrunaLimaa" title="Perfil no GitHub">
+        <img src="https://github.com/BrunaLimaa.png" width="100px" alt="Foto de Bruna Rosa Bragança de Lima no GitHub"/><br>
+        <sub><b>Bruna Rosa Bragança de Lima</b></sub>
+      </a>
     </td>
     <td align="center">
-      <sub><b>Elano Tavares do Nascimento</b></sub>
+      <a href="https://github.com/elano-tavares" title="Perfil no GitHub">
+        <img src="https://github.com/elano-tavares.png" width="100px" alt="Foto de Elano Tavares do Nascimento no GitHub"/><br>
+        <sub><b>Elano Tavares do Nascimento</b></sub>
+      </a>
     </td>
   </tr>
 </table>
