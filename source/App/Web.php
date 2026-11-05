@@ -220,17 +220,6 @@ class Web
         ]);
     }
 
-    /**
-     * Renderiza a página de dashboard após o login
-     */
-    public function dashboard(): void
-    {
-        echo $this->view->render("dashboard", [
-            "title" => "Dashboard | " . CONF_SITE_NAME,
-            "cities" => $this->cities
-        ]);
-    }
-
     /* public function projectsByCategory(?array $data) : void
     {
 
